@@ -8,4 +8,6 @@ image:
 pubDate: 2022-07-08
 tags: ["astro", "bloguear", "aprender en público", "éxitos"]
 ---
-Después de una exitosa primera semana aprendiendo Astro, decidí probar un poco más. Escribí e importé un pequeño componente de memoria.
+# Mi segunda publicación en el blog
+
+Después de una exitosa primera semana aprendiendo Astro, decidí probar un poco más. Escribí e importé un pequeño componente de memoria

@@ -8,4 +8,6 @@ image:
 pubDate: 2022-07-15
 tags: ["astro", "aprender en público", "contratiempos", "comunidad"]
 ---
-No siempre ha sido fácil, pero disfruto construyendo con Astro. Además, la [comunidad de Discord](https://astro.build/chat) es muy amable y servicial.
+# Mi tercera publicación en el blog
+
+No siempre ha sido fácil, pero disfruto construyendo con Astro. Además, la [comunidad de Discord](https://astro.build/chat) es muy amable y servicial
