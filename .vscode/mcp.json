@@ -1,0 +1,13 @@
+{
+	"servers": {
+		"my-mcp-server-d144a23c": {
+			"url": "https://mcp.docs.astro.build/mcp",
+			"type": "http"
+		},
+		"Astro docs": {
+			"url": "https://mcp.docs.astro.build/mcp",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}
