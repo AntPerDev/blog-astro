@@ -7,6 +7,7 @@ pubDate: 2022-08-08
 image:
     url: 'https://docs.astro.build/assets/rose.webp'
     alt: 'El logotipo de Astro sobre un fondo oscuro con un brillo rosado.'
+tags: ["blog"]
 ---
 
 ¡He aprendido mucho hoy! Astro me permite escribir en Markdown, pero también utilizar variables del frontmatter. Incluso puedo acceder a esos valores en un componente layout de Astro.

@@ -1,9 +1,12 @@
 ---
 import BlogPost from "../components/BlogPost.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
+
+//acceso a los datos de cada archivo de entrada de blog
 const allPosts = Object.values(
   import.meta.glob("./posts/*.{md,mdx}", { eager: true }),
 );
+
 const pageTitle = "Mi blog de aprendizaje de Astro";
 ---
 
@@ -15,10 +18,11 @@ const pageTitle = "Mi blog de aprendizaje de Astro";
       <li><a href="/posts/post-2/">Publicación 2</a></li>
       <li><a href="/posts/post-3/">Publicación 3</a></li>
     </ul> -->
+
   <ul>
     {
       allPosts.map((post: any) => (
-        <BlogPost url={post.url} title={post.frontmatter.title}/>
+        <BlogPost url={post.url} title={post.frontmatter.title} />
       ))
     }
   </ul>
