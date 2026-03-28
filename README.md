@@ -1,4 +1,8 @@
+>If you'd like to see the code in action, you can do so at (https://boisterous-begonia-2e9726.netlify.app/)[https://boisterous-begonia-2e9726.netlify.app/]
+
+
 # Astro Starter Kit: Minimal
+
 
 ```sh
 npm create astro@latest -- --template minimal
